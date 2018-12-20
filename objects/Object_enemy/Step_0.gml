@@ -4,8 +4,8 @@
 /// @DnDApplyTo : 3308f377-a471-4f1b-81f2-e61e16e972c4
 /// @DnDArgument : "var" "abs(x-other.x)"
 /// @DnDArgument : "op" "3"
-/// @DnDArgument : "value" "100"
-with(object_player) var l50ABDA51_0 = abs(x-other.x) <= 100;
+/// @DnDArgument : "value" "250"
+with(object_player) var l50ABDA51_0 = abs(x-other.x) <= 250;
 if(l50ABDA51_0)
 {
 	/// @DnDAction : YoYo Games.Common.If_Variable
@@ -15,8 +15,8 @@ if(l50ABDA51_0)
 	/// @DnDParent : 50ABDA51
 	/// @DnDArgument : "var" "abs(y-other.y)"
 	/// @DnDArgument : "op" "3"
-	/// @DnDArgument : "value" "100"
-	with(object_player) var l4B997839_0 = abs(y-other.y) <= 100;
+	/// @DnDArgument : "value" "250"
+	with(object_player) var l4B997839_0 = abs(y-other.y) <= 250;
 	if(l4B997839_0)
 	{
 		/// @DnDAction : YoYo Games.Common.Variable

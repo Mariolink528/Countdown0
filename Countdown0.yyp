@@ -183,11 +183,20 @@
             }
         },
         {
+
             "Key": "e50e2936-82e8-4cae-89f1-b0b4ec0ea003",
             "Value": {
                 "id": "f5192cc1-28fb-414f-95d0-22ebb442c32d",
                 "resourcePath": "objects\\Object_enemy\\Object_enemy.yy",
                 "resourceType": "GMObject"
+            }
+        },
+          {  "Key": "e57c0926-859d-41e0-96df-5a63015bbecd",
+            "Value": {
+                "id": "97051d56-bae7-4606-a59e-04c9425a7343",
+                "resourcePath": "sprites\\Title_screen\\Title_screen.yy",
+                "resourceType": "GMSprite"
+
             }
         },
         {

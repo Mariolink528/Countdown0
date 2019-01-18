@@ -24,8 +24,8 @@ if(l50ABDA51_0)
 		/// @DnDHash : 4880409E
 		/// @DnDParent : 4B997839
 		/// @DnDArgument : "expr" "true"
-		/// @DnDArgument : "var" "shooting"
-		shooting = true;
+		/// @DnDArgument : "var" "in_range"
+		in_range = true;
 	}
 }
 
@@ -39,6 +39,6 @@ else
 	/// @DnDHash : 75146F47
 	/// @DnDParent : 28280ECE
 	/// @DnDArgument : "expr" "false"
-	/// @DnDArgument : "var" "shooting"
-	shooting = false;
+	/// @DnDArgument : "var" "in_range"
+	in_range = false;
 }

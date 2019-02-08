@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "01ad22c2-1fc4-4317-b4f0-549c1e0d64d8",
+            "Value": {
+                "id": "f24af347-8dd4-4337-8e1c-1efd1b6d94d3",
+                "resourcePath": "rooms\\room_Title\\room_Title.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0459e4ee-adea-4e3b-b509-c1acabb1e866",
             "Value": {
                 "id": "6e97d01a-b273-480a-8205-9c9585542873",
@@ -196,6 +204,14 @@
                 "id": "df051edc-944d-4965-8f38-953e82ccbba2",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d046183b-ba80-45c4-a951-60f979aabd5e",
+            "Value": {
+                "id": "49aaa76e-f973-494e-a428-38232fe3520e",
+                "resourcePath": "objects\\object_TitleScreen\\object_TitleScreen.yy",
+                "resourceType": "GMObject"
             }
         },
         {

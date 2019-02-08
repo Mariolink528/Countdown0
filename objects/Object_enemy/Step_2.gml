@@ -34,9 +34,9 @@ if(in_range == true)
 		/// @DnDParent : 2DE56EC0
 		/// @DnDArgument : "xpos_relative" "1"
 		/// @DnDArgument : "ypos_relative" "1"
-		/// @DnDArgument : "objectid" "object_bullet"
+		/// @DnDArgument : "objectid" "object_bullet_enemy"
 		/// @DnDSaveInfo : "objectid" "12032a5c-95d3-4bcf-80dd-f5f3597eb49c"
-		instance_create_layer(x + 0, y + 0, "Instances", object_bullet);
+		instance_create_layer(x + 0, y + 0, "Instances", object_bullet_enemy);
 	
 		/// @DnDAction : YoYo Games.Common.Variable
 		/// @DnDVersion : 1

@@ -1,13 +1,6 @@
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 3A5160C9
-/// @DnDArgument : "expr" "270"
-/// @DnDArgument : "var" "direction"
-direction = 270;
-
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 791C4CD0
+/// @DnDHash : 40400729
 /// @DnDArgument : "xpos_relative" "1"
 /// @DnDArgument : "ypos_relative" "1"
 /// @DnDArgument : "objectid" "object_bullet_player"

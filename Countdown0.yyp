@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "1c8eca0b-8f18-4bce-aca1-3b79101ed296",
+            "Value": {
+                "id": "f6e2edf4-9550-4f16-aedd-c622507c1463",
+                "resourcePath": "sounds\\Scavanging\\Scavanging.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "239a7c4d-7db6-44ce-baef-1e2d8e79660a",
             "Value": {
                 "id": "1e64741c-d9bf-4cee-bd47-c257e515a72f",

@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "7b9bb13f-88eb-4e67-913d-f6931a2e5cbd",
+            "Value": {
+                "id": "56db9c40-61ca-43ca-bba6-c18d0ce03e04",
+                "resourcePath": "objects\\object_pickup_health\\object_pickup_health.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7f1f2c82-d51c-46bd-bbe4-242b11d728c2",
             "Value": {
                 "id": "b716223a-5d82-427d-ad17-c59d22c01b5e",

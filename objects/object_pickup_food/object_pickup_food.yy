@@ -1,18 +1,18 @@
 {
-    "id": "7b9bb13f-88eb-4e67-913d-f6931a2e5cbd",
+    "id": "21ee1292-5cc0-44bc-bf29-71de91cdd596",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object_pickup_health",
+    "name": "object_pickup_food",
     "eventList": [
         {
-            "id": "8dfc3725-3e0d-4846-a15f-6ca212bdc63e",
+            "id": "27eb5f02-af1b-40ea-ac9c-079cc1c1ee34",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "7b9bb13f-88eb-4e67-913d-f6931a2e5cbd"
+            "m_owner": "21ee1292-5cc0-44bc-bf29-71de91cdd596"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

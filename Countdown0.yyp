@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "21ee1292-5cc0-44bc-bf29-71de91cdd596",
+            "Value": {
+                "id": "fd7f424b-1709-46f9-aba4-d314de09e239",
+                "resourcePath": "objects\\object_pickup_food\\object_pickup_food.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "239a7c4d-7db6-44ce-baef-1e2d8e79660a",
             "Value": {
                 "id": "1e64741c-d9bf-4cee-bd47-c257e515a72f",
@@ -116,6 +124,14 @@
                 "id": "ec786df2-232f-4a8a-83e6-197f67b0260f",
                 "resourcePath": "tilesets\\tileset_House\\tileset_House.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "3ee9be2f-f784-46a5-b5b2-7c3f8886f0f6",
+            "Value": {
+                "id": "0e0cd515-e878-4770-a2eb-b1ff7087f582",
+                "resourcePath": "objects\\object_pickup_Water\\object_pickup_Water.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -212,6 +228,14 @@
                 "id": "d6211914-9a65-4c58-97c0-b624f4393772",
                 "resourcePath": "rooms\\room_test\\room_test.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a9fd3fd6-41b0-4df7-a76e-eac68a8fcab1",
+            "Value": {
+                "id": "84f699d3-745a-453c-afc6-26672c03467d",
+                "resourcePath": "sprites\\Sprite_Pickups\\Sprite_Pickups.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

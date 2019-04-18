@@ -17,8 +17,8 @@ if(in_range == true)
 	/// @DnDVersion : 1
 	/// @DnDHash : 7786F586
 	/// @DnDParent : 2E914100
-	/// @DnDArgument : "speed" "2"
-	speed = 2;
+	/// @DnDArgument : "speed" "4"
+	speed = 4;
 
 	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1

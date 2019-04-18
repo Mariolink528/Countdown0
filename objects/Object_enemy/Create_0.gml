@@ -8,6 +8,10 @@ __dnd_health = real(100);
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 610568DE
-/// @DnDArgument : "expr" "false"
+/// @DnDInput : 2
+/// @DnDArgument : "expr" "true"
+/// @DnDArgument : "expr_1" "false"
 /// @DnDArgument : "var" "shooting"
-shooting = false;
+/// @DnDArgument : "var_1" "in_range"
+shooting = true;
+in_range = false;

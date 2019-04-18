@@ -1,18 +1,18 @@
 {
-    "id": "7b9bb13f-88eb-4e67-913d-f6931a2e5cbd",
+    "id": "3ee9be2f-f784-46a5-b5b2-7c3f8886f0f6",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object_pickup_health",
+    "name": "object_pickup_Water",
     "eventList": [
         {
-            "id": "8dfc3725-3e0d-4846-a15f-6ca212bdc63e",
+            "id": "21b6ef17-df0e-45ae-b6e8-32a4b2c96e3d",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "7b9bb13f-88eb-4e67-913d-f6931a2e5cbd"
+            "m_owner": "3ee9be2f-f784-46a5-b5b2-7c3f8886f0f6"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "ddcaa3ec-6d14-47c2-ac55-bb2a64429aca",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
             "Key": "aa407765-c858-48c0-9984-e2c897acc548",
             "Value": {
                 "id": "0d7136ea-455c-447c-8c73-02fd885a8f86",
@@ -324,6 +332,14 @@
                 "id": "283058c8-1aaf-46f3-92db-43a1bcb18f5d",
                 "resourcePath": "sounds\\Low_Time\\Low_Time.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "b980ded4-e8ba-436a-95d6-a9a92e50f850",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
             }
         },
         {

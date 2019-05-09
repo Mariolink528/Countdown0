@@ -14,4 +14,5 @@ speed = 10;
 /// @DnDAction : YoYo Games.Instances.Sprite_Rotate
 /// @DnDVersion : 1
 /// @DnDHash : 36198DD3
-image_angle = 0;
+/// @DnDArgument : "angle" "point_direction(x, y, object_player.x, object_player.y )"
+image_angle = point_direction(x, y, object_player.x, object_player.y );

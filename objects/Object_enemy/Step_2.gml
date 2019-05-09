@@ -5,9 +5,16 @@
 /// @DnDArgument : "value" "true"
 if(in_range == true)
 {
+	/// @DnDAction : YoYo Games.Instances.Sprite_Rotate
+	/// @DnDVersion : 1
+	/// @DnDHash : 0471C785
+	/// @DnDParent : 2E914100
+	/// @DnDArgument : "angle" "point_direction(x, y, object_player.x, object_player.y )"
+	image_angle = point_direction(x, y, object_player.x, object_player.y );
+
 	/// @DnDAction : YoYo Games.Movement.Set_Direction_Point
 	/// @DnDVersion : 1
-	/// @DnDHash : 0FC159CD
+	/// @DnDHash : 770E3805
 	/// @DnDParent : 2E914100
 	/// @DnDArgument : "x" "object_player.x"
 	/// @DnDArgument : "y" "object_player.y"
@@ -15,7 +22,7 @@ if(in_range == true)
 
 	/// @DnDAction : YoYo Games.Movement.Set_Speed
 	/// @DnDVersion : 1
-	/// @DnDHash : 7786F586
+	/// @DnDHash : 030111FF
 	/// @DnDParent : 2E914100
 	/// @DnDArgument : "speed" "4"
 	speed = 4;

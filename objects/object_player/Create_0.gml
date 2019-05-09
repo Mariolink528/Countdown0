@@ -1,18 +1,22 @@
-/// @DnDAction : YoYo Games.Common.Set_Global
-/// @DnDVersion : 1
-/// @DnDHash : 059888E9
-/// @DnDInput : 3
-/// @DnDArgument : "value_1" "100"
-/// @DnDArgument : "var" "food"
-/// @DnDArgument : "var_1" "player_health"
-/// @DnDArgument : "var_2" "water"
-global.food = 0;
-global.player_health = 100;
-global.water = 0;
-
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 53D01174
+/// @DnDInput : 2
 /// @DnDArgument : "expr" "7"
 /// @DnDArgument : "var" "run_speed"
+/// @DnDArgument : "var_1" "invuln"
 run_speed = 7;
+invuln = 0;
+
+/// @DnDAction : YoYo Games.Instances.Sprite_Animation_Speed
+/// @DnDVersion : 1
+/// @DnDHash : 1C89A3CD
+/// @DnDArgument : "speed" "0"
+image_speed = 0;
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 3E84FFDF
+/// @DnDArgument : "steps" "300"
+/// @DnDArgument : "alarm" "3"
+alarm_set(3, 300);

@@ -71,11 +71,27 @@
             }
         },
         {
+            "Key": "19fc0d99-ba0e-4123-9715-b09b8709bc48",
+            "Value": {
+                "id": "4d74789d-f6a2-4557-8584-183a77c09d0b",
+                "resourcePath": "objects\\Object_water\\Object_water.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1c8eca0b-8f18-4bce-aca1-3b79101ed296",
             "Value": {
                 "id": "f6e2edf4-9550-4f16-aedd-c622507c1463",
                 "resourcePath": "sounds\\Scavanging\\Scavanging.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "20077e92-82aa-431e-b803-c4c7d390270c",
+            "Value": {
+                "id": "e8d87b26-cdb3-447d-84f2-ab1648251825",
+                "resourcePath": "objects\\object_health\\object_health.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -159,6 +175,14 @@
             }
         },
         {
+            "Key": "5ae03cb4-6555-48fc-bc66-54c2d70f16f8",
+            "Value": {
+                "id": "8ddd11cb-cea8-4f2c-8a10-606ba2381c65",
+                "resourcePath": "sprites\\sprite_Player_water\\sprite_Player_water.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6246408d-fcbb-4c8c-9b27-c71cb8ddbf17",
             "Value": {
                 "id": "ee9c32ac-ceaf-4dd8-b1b4-3375bdbb5777",
@@ -191,6 +215,14 @@
             }
         },
         {
+            "Key": "7ff5832b-a6a8-435b-9162-d20056642a02",
+            "Value": {
+                "id": "a15ce332-bed2-46ff-a3d0-db94033eae11",
+                "resourcePath": "sprites\\sprite_health\\sprite_health.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "8e50595b-3d80-4c30-a61f-bed9091df0ca",
             "Value": {
                 "id": "d16c2e76-6628-4a0e-82ca-4f754cd06c5c",
@@ -212,6 +244,14 @@
                 "id": "d6211914-9a65-4c58-97c0-b624f4393772",
                 "resourcePath": "rooms\\room_test\\room_test.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a45f3d2f-a5df-4fb3-90b0-436431664f96",
+            "Value": {
+                "id": "8ab913c7-d7ea-43cc-b528-0da90d3e817b",
+                "resourcePath": "sprites\\sprite_water\\sprite_water.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -276,6 +316,14 @@
                 "id": "49aaa76e-f973-494e-a428-38232fe3520e",
                 "resourcePath": "objects\\object_TitleScreen\\object_TitleScreen.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d0dcfc52-1274-456e-9944-d0d63c93da1f",
+            "Value": {
+                "id": "34bf4381-568a-4a6d-935e-d315330c198f",
+                "resourcePath": "sprites\\sprite_Player_health\\sprite_Player_health.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

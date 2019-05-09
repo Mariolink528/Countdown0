@@ -27,6 +27,21 @@ if(l50ABDA51_0)
 		/// @DnDArgument : "var" "in_range"
 		in_range = true;
 	}
+
+	/// @DnDAction : YoYo Games.Common.Else
+	/// @DnDVersion : 1
+	/// @DnDHash : 1D09F149
+	/// @DnDParent : 50ABDA51
+	else
+	{
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 73E559F5
+		/// @DnDParent : 1D09F149
+		/// @DnDArgument : "expr" "false"
+		/// @DnDArgument : "var" "in_range"
+		in_range = false;
+	}
 }
 
 /// @DnDAction : YoYo Games.Common.Else

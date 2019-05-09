@@ -13,3 +13,10 @@ invuln = 0;
 /// @DnDHash : 1C89A3CD
 /// @DnDArgument : "speed" "0"
 image_speed = 0;
+
+/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDVersion : 1
+/// @DnDHash : 3E84FFDF
+/// @DnDArgument : "steps" "300"
+/// @DnDArgument : "alarm" "3"
+alarm_set(3, 300);

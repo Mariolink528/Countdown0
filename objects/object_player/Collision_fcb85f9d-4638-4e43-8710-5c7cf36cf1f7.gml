@@ -99,11 +99,13 @@ if(invuln == 0)
 			/// @DnDArgument : "var" "phealth"
 			global.phealth = 2;
 		
-			/// @DnDAction : YoYo Games.Rooms.Restart_Room
+			/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 			/// @DnDVersion : 1
-			/// @DnDHash : 35CC8558
+			/// @DnDHash : 208319A4
 			/// @DnDParent : 6A5E6670
-			room_restart();
+			/// @DnDArgument : "room" "room_game_over"
+			/// @DnDSaveInfo : "room" "c04f391b-e09a-43ee-851b-8a921ccae6cf"
+			room_goto(room_game_over);
 		}
 	}
 }
